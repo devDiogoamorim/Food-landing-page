@@ -1,5 +1,5 @@
 # 🥗 Food Landing page 
-### https://devdiogoamorim-schoolregistrationform.netlify.app/
+### https://devdiogoamorim-foodlandingpage.netlify.app
 
 Este é um projeto de lading page desenvolvido com HTML, CSS e JavaScript. O site é totalmente responsivo, seguindo as boas práticas de semântica HTML e acessibilidade.
 
