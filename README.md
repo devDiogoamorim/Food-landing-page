@@ -1,7 +1,7 @@
 # 🥗 Food Landing page 
 ### https://devdiogoamorim-foodlandingpage.netlify.app
 
-Este é um projeto de lading page desenvolvido com HTML, CSS e JavaScript. O site é totalmente responsivo, seguindo as boas práticas de semântica HTML e acessibilidade.
+Este é um projeto de landing page desenvolvido com HTML, CSS e JavaScript. O site é totalmente responsivo, seguindo as boas práticas de semântica HTML e acessibilidade.
 
 ✨ Funcionalidades
 - Layout moderno e adaptável a diferentes dispositivos 📱💻
